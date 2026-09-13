@@ -43,7 +43,7 @@
 ## 🚀 快速開始 (VS Code)
 1. **複製儲存庫**：
    ```bash
-   git clone https://github.com
+   git clone https://github.com](https://github.com/dahchengweng/BREAKOUT-JAVA-GAME
    ```
 2. **放置音效檔案**：
    請將準備好的 `.wav` 音效檔案放入根目錄下的 `sounds/` 資料夾中，確認命名與代號相符。
